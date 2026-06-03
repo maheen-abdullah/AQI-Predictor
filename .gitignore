@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+*.pkl
+*.joblib
+.DS_Store
+Thumbs.db
+.vscode/

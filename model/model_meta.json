@@ -1,0 +1,24 @@
+{
+  "model_name": "XGBoost",
+  "feature_cols": [
+    "pm25",
+    "pm10",
+    "o3",
+    "no2",
+    "co",
+    "so2",
+    "temperature",
+    "humidity",
+    "wind_speed",
+    "pressure",
+    "dew_point",
+    "hour",
+    "day_of_week",
+    "month",
+    "is_weekend",
+    "day_of_year"
+  ],
+  "rmse": 0.0001,
+  "mae": 0.0001,
+  "r2": 1.0
+}
